@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "An interactive, animated study planner with Pomodoro focus sessions, syllabus tracking, revision cards, schedule calendar, and smart study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
